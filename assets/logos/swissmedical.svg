@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" width="100%" height="100%">
+  <!-- Swiss Medical Styled SVG -->
+  <g transform="translate(10, 15)">
+    <!-- Symbol: Red Cross inside blue ring -->
+    <circle cx="25" cy="25" r="22" fill="none" stroke="#123B59" stroke-width="4" />
+    <path d="M 25,12 L 25,38 M 12,25 L 38,25" stroke="#E8734A" stroke-width="8" stroke-linecap="square" />
+    <!-- Text -->
+    <text x="60" y="24" font-family="'Montserrat', 'Arial', sans-serif" font-weight="700" font-size="15" fill="#123B59" letter-spacing="0.5">SWISS</text>
+    <text x="60" y="39" font-family="'Montserrat', 'Arial', sans-serif" font-weight="700" font-size="15" fill="#123B59" letter-spacing="0.5">MEDICAL</text>
+  </g>
+</svg>

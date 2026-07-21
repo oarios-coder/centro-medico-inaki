@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" width="100%" height="100%">
+  <!-- IAPOS Styled SVG -->
+  <g transform="translate(10, 15)">
+    <!-- Symbol: Red arch over blue circle -->
+    <path d="M 5,20 C 5,5 45,5 45,20" fill="none" stroke="#E8734A" stroke-width="6" stroke-linecap="round" />
+    <circle cx="25" cy="28" r="12" fill="#1E5F8C" />
+    <!-- Text -->
+    <text x="60" y="34" font-family="'Montserrat', 'Arial Black', sans-serif" font-weight="800" font-size="28" fill="#1E5F8C" letter-spacing="0.5">iapos</text>
+  </g>
+</svg>
